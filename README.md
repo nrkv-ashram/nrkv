@@ -34,9 +34,6 @@ A beautiful, fully static website for Natagarh Ramakrishna Vivekananda Ashram bu
 - **shadcn/ui** - Component library
 - **Lucide React** - Icons
 
-### Backend Utilities (Development Only)
-- **Python 3.8+** - For content management scripts
-
 ## 📁 Project Structure
 
 ```
@@ -63,83 +60,9 @@ A beautiful, fully static website for Natagarh Ramakrishna Vivekananda Ashram bu
 │   │   └── index.css            # Global styles
 │   ├── public/                  # Static assets
 │   └── package.json             # Dependencies
-│
-├── backend/                      # Utility scripts (NOT deployed)
-│   ├── generate_data.py         # Content management script
-│   ├── requirements.txt         # Python dependencies
-│   └── README.md                # Backend documentation
-│
+|
 ├── README.md                     # This file
 └── DEPLOYMENT.md                 # GitHub Pages deployment guide
-```
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js 18+ and yarn
-- Git
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/natagarh-ashram-website.git
-   cd natagarh-ashram-website
-   ```
-
-2. **Install frontend dependencies**
-   ```bash
-   cd frontend
-   yarn install
-   ```
-
-3. **Start development server**
-   ```bash
-   yarn start
-   ```
-
-4. **Open in browser**
-   ```
-   http://localhost:3000
-   ```
-
-## 📝 Content Management
-
-### Method 1: Direct JSON Editing (Recommended)
-
-1. Navigate to `frontend/src/data/`
-2. Edit the relevant JSON file:
-   - `events.json` - Events and programs
-   - `notices.json` - Announcements and notices
-   - `calendar.json` - Calendar events
-3. Save and refresh your browser
-
-### Method 2: Using Python Utility
-
-1. Install Python 3.8+
-2. Navigate to backend directory
-3. Edit `generate_data.py`
-4. Run the script:
-   ```bash
-   python generate_data.py
-   ```
-
-For detailed instructions, see [backend/README.md](backend/README.md)
-
-## 🌐 Deployment
-
-### Deploy to GitHub Pages
-
-See [DEPLOYMENT.md](DEPLOYMENT.md) for complete step-by-step instructions.
-
-Quick steps:
-```bash
-cd frontend
-yarn add --dev gh-pages
-
-# Update package.json with homepage and deploy script
-yarn deploy
 ```
 
 ## 📱 Responsive Design
@@ -265,7 +188,7 @@ Potential features for future versions:
 - Online donation system
 - Blog/Articles section
 - Video sermons
-- Multi-language support (Hindi, Odia)
+- Multi-language support
 - Newsletter subscription
 
 ---
