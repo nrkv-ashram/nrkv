@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "School New Regulations from January 2026",
+    "date": "2026-01-01",
+    "description": "Dear Teachers & Guardians, Please note that from January 2026, new regulations will be implemented in our school to enhance the learning environment and ensure student safety. Kindly review the attached document for detailed information.",
+    "priority": "high",
+    "pdf": "/pdfs/School_regulation.pdf"
+  },
+  {
+    "id": 2,
+    "title": "Annual General Meeting Notice",
+    "date": "2025-02-01",
+    "description": "The Annual General Meeting of Natagarh Ramakrishna Vivekananda Ashram will be held on 15th February 2025 at 10:00 AM. All members are requested to attend.",
+    "priority": "medium",
+    "pdf": null
+  },
+  {
+    "id": 3,
+    "title": "Free Medical Camp Announcement",
+    "date": "2025-03-10",
+    "description": "A free medical camp will be organized on 20th March 2025 from 9:00 AM to 2:00 PM. General checkup, eye checkup and medicines will be provided free of cost.",
+    "priority": "high",
+    "pdf": null
+  },
+  {
+    "id": 4,
+    "title": "Library Book Donation Drive",
+    "date": "2025-04-05",
+    "description": "The Ashram library is accepting donations of spiritual, philosophical and educational books. Please contact the office for more details.",
+    "priority": "low",
+    "pdf": null
+  },
+  {
+    "id": 5,
+    "title": "Monsoon Season Guidelines",
+    "date": "2025-06-15",
+    "description": "During monsoon season, devotees are advised to be cautious while visiting. Indoor programs will continue as scheduled. Umbrellas are available at the entrance.",
+    "priority": "medium",
+    "pdf": null
+  }
+]

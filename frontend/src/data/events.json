@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Swami Vivekananda Jayanti Celebration",
+    "date": "2025-01-12",
+    "description": "Annual celebration of Swami Vivekananda's birth anniversary with special prayers, bhajan and discourse on his teachings.",
+    "time": "6:00 AM - 12:00 PM",
+    "venue": "Main Hall",
+    "imageUrl": "https://images.unsplash.com/photo-1604608672516-f1b0b14731b9?w=800&q=80",
+    "pdfUrl": null
+  },
+  {
+    "id": 2,
+    "title": "Sri Ramakrishna Paramhansa Puja",
+    "date": "2025-02-18",
+    "description": "Special worship ceremony commemorating Sri Ramakrishna Paramhansa with devotional songs and spiritual discourses.",
+    "time": "5:00 AM - 10:00 AM",
+    "venue": "Temple Premises",
+    "imageUrl": "https://images.unsplash.com/photo-1532375810709-75b1da00537c?w=800&q=80",
+    "pdfUrl": null
+  },
+  {
+    "id": 3,
+    "title": "Youth Leadership Workshop",
+    "date": "2025-03-15",
+    "description": "A three-day workshop focusing on character building and leadership development based on Swami Vivekananda's principles.",
+    "time": "9:00 AM - 5:00 PM",
+    "venue": "Seminar Hall",
+    "imageUrl": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800&q=80",
+    "pdfUrl": null
+  },
+  {
+    "id": 4,
+    "title": "Meditation & Yoga Session",
+    "date": "2025-04-21",
+    "description": "Weekly meditation and yoga sessions for spiritual wellness and mental peace. Open to all age groups.",
+    "time": "6:00 AM - 7:30 AM",
+    "venue": "Yoga Hall",
+    "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+    "pdfUrl": null
+  },
+  {
+    "id": 5,
+    "title": "Community Service Day",
+    "date": "2025-05-10",
+    "description": "Monthly community service initiative including free health checkup, educational support and food distribution.",
+    "time": "8:00 AM - 2:00 PM",
+    "venue": "Ashram Campus",
+    "imageUrl": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "pdfUrl": null
+  },
+  {
+    "id": 6,
+    "title": "Bhagavad Gita Study Circle",
+    "date": "2025-06-08",
+    "description": "Weekly study and discussion sessions on Bhagavad Gita teachings with experienced scholars.",
+    "time": "5:00 PM - 7:00 PM",
+    "venue": "Library Hall",
+    "imageUrl": "https://images.unsplash.com/photo-1512428813834-c702c7702b78?w=800&q=80",
+    "pdfUrl": null
+  },
+  {
+    "id": 7,
+    "title": "Guru Purnima Celebration",
+    "date": "2025-07-13",
+    "description": "Sacred festival honoring the Guru tradition with special puja, kirtan and prasad distribution.",
+    "time": "5:00 AM - 12:00 PM",
+    "venue": "Main Temple",
+    "imageUrl": "https://images.unsplash.com/photo-1583474932069-9c3b68e7e7b8?w=800&q=80",
+    "pdfUrl": null
+  }
+]
