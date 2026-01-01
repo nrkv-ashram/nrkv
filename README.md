@@ -21,19 +21,6 @@ A serene and welcoming website for the Natagarh Ramakrishna Vivekananda Ashram. 
 - Gallery: A curated visual archive of the ashram and its community. See details below.
 - Contact: Address, phone, email, and directions to the ashram.
 
-## Gallery (New)
-
-A dedicated Gallery page preserves and showcases visual memories from the ashram. Key aspects:
-
-- Curated albums and collections for easy browsing (e.g., Festivals, Events, Temple & Grounds, Community, Archives).
-- High-quality images with captions and photographer credits where available.
-- Slideshow and full-screen viewing for immersive browsing.
-- Filters to sort or view images by category, date, or event.
-- Lightbox view with image details and links to related events or notices when applicable.
-- A chronological archive to explore the ashram's activities and milestones over time.
-
-The Gallery is intended as both a visual record and a way for visitors and devotees to connect with the ashram's life and legacy.
-
 ## Contributing
 
 Contributions are welcome to help keep the site up to date and to expand the Gallery. For updates or suggestions, please open an issue in the repository or contact the ashram team.
